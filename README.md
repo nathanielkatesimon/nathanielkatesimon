@@ -5,6 +5,8 @@
 ![dsadasdasd](https://duepy-stats.vercel.app/api?username=nathanielkatesimon&show_icons=true&theme=transparent&hide_border=true&line_height=35&custom_title=Nathaniel's%20Github%20Stats)
 ![asdadasd](https://duepy-stats.vercel.app/api/top-langs/?username=nathanielkatesimon&theme=transparent&hide_border=true&hide_title=true)
 
+![asdasda](https://github-readme-streak-stats.herokuapp.com/?user=nathanielkatesimon&theme=transparent&hide_border=true&card_width=765)
+
 <p align="left">
    <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,vue,ruby,rails,mysql,postgresql,nuxt,nodejs,vercel,docker,git" />
