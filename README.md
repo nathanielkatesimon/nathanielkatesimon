@@ -3,7 +3,7 @@
 
 <p align="left">
    <a href="#">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,bootstrap,sass,vue,ruby,rails,mysql,postgresql,nuxt,nodejs,vercel,docker,git" />
+    <img src="https://skill-icons-nu.vercel.app/api/icons?i=js,html,css,bootstrap,sass,ruby,rails,stimulusjs,turbodrive,mysql,postgresql,nodejs,vercel,docker,git" />
    </a>
 </p>
 
