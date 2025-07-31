@@ -2,8 +2,8 @@
 
 
 <p align="left">
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,vue,ruby,rails,mysql,postgresql,nuxt,nodejs,vercel,docker,git" />
+   <a href="#">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=js,html,css,bootstrap,sass,vue,ruby,rails,mysql,postgresql,nuxt,nodejs,vercel,docker,git" />
    </a>
 </p>
 
